@@ -64,7 +64,7 @@ If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
 
 ### 📊 Stats
 
-[![Chieloka's GitHub top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chielokacode&layout=donut)]
+![Chieloka's GitHub top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chielokacode&layout=donut-vertical)
 
 ![Chieloka's GitHub stats](https://github-readme-stats.vercel.app/api?username=chielokacode&show_icons=true&theme=gruvbox)
 
