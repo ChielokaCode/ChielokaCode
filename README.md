@@ -1,5 +1,5 @@
 <a href="https://linkedin.com/in/chieloka-madubugwu-java">
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1104euF1U5AEq-gnEpHmvtvhUMNDNEj0I/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1104euF1U5AEq-gnEpHmvtvhUMNDNEj0I/view">
 </a>
 
 ## Hi there 👋
