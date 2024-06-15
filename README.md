@@ -2,9 +2,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQETU_oHMfeilA/profile-displaybackgroundimage-shrink_350_1400/0/1717535297685?e=1723680000&v=beta&t=T6CLZdG11BXgtzUdv8gezqei2nrL_VLjPghh8g7JfJo)](https://linkedin.com/in/chieloka-madubugwu-java)
 
 #
-## Hi there 👋
-
-# 🏄‍♂️ Chieloka Madubugwu
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chieloka+Madubugwu!;" />
+</h1>
 
 **`Mid Software Engineer (Developer/Youtuber/Creator)`**
 
