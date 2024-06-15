@@ -2,11 +2,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQETU_oHMfeilA/profile-displaybackgroundimage-shrink_350_1400/0/1717535297685?e=1723680000&v=beta&t=T6CLZdG11BXgtzUdv8gezqei2nrL_VLjPghh8g7JfJo)](https://linkedin.com/in/chieloka-madubugwu-java)
 
 #
-<a href="https://linkedin.com/in/chieloka-madubugwu-java">
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D16AQETU_oHMfeilA/profile-displaybackgroundimage-shrink_350_1400/0/1717535297685?e=1723680000&v=beta&t=T6CLZdG11BXgtzUdv8gezqei2nrL_VLjPghh8g7JfJo">
-</a>
-
-<br>
 ## Hi there 👋
 
 # 🏄‍♂️ Chieloka Madubugwu
