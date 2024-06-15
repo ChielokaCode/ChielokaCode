@@ -27,16 +27,17 @@ If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 <br />
 
 #
@@ -44,12 +45,7 @@ If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Made the Most Useless Machine You’ve Ever Seen (and TSA took it?)]("")](https://www.youtube.com/watch?v=PRFzHIQV1zY&t=520s)
-[![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=8deKXiV-eLE)
-[![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
-[![The Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
-[![So, you want to be a programmer?](https://ytcards.demolab.com/?id=LV_r2ahaKto&title=So%2C+you+want+to+be+a+programmer%3F&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1243 "So, you want to be a programmer?")](https://www.youtube.com/watch?v=LV_r2ahaKto)
-[![A Complete Overview of DevOps](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "A Complete Overview of DevOps")](https://www.youtube.com/watch?v=zG1cM9VSINg)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@chielokacodes?sub_confirmation=1)
