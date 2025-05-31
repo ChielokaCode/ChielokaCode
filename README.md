@@ -8,7 +8,7 @@
 
 **`Mid Software Engineer (Developer/Youtuber/Creator)`**
 
-Software Engineer with 4+ years of experience with proficiency in building web applications using Java Spring Boot, SQL Databases, Docker and frontend technologies like React js, Tailwind CSS etc. 
+Software Engineer with 6+ years of experience with proficiency in building web applications using Java Spring Boot, C# (Azure OpenAI and Semantic Kernel for builing Generative AI Agents), SQL Databases, Docker and frontend technologies like React js, Tailwind CSS etc
 
 I thrive in innovative and collaborative environments, aiming to contribute to projects that make a meaningful impact. I'm committed to writing clean, efficient, and scalable code, with a focus on quality and best practices. I posses strong communication skills to drive projects forward, exceeding expectations and collaborating effectively with cross-functional teams.
 
@@ -30,6 +30,7 @@ If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/csharp-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
