@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQETU_oHMfeilA/profile-displaybackgroundimage-shrink_350_1400/0/1717535297685?e=1723680000&v=beta&t=T6CLZdG11BXgtzUdv8gezqei2nrL_VLjPghh8g7JfJo)](https://linkedin.com/in/chieloka-madubugwu-java)
+LinkedIn: https://linkedin.com/in/chieloka-madubugwu-java
 
 #
 <h1 align="center">
@@ -33,7 +33,7 @@ If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px; background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
